@@ -4,8 +4,6 @@
 writefile=$1
 writestr=$2
 
-#test comment to push
-
 #check for two arguments
 if [ $# -eq 2 ] 
 then
