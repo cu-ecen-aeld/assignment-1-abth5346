@@ -4,6 +4,8 @@
 writefile=$1
 writestr=$2
 
+#trigger actions runner
+
 #check for two arguments
 if [ $# -eq 2 ] 
 then
